@@ -1,0 +1,11 @@
+﻿用户信息
+
+类型表
+
+商品表(p_id, ....., p_photo)
+
+购物项（buy_num, count, ststus,p_id,o_id）
+
+地址信息
+
+订单(o_id)
